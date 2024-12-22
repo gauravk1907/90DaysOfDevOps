@@ -1,0 +1,3 @@
+What is DevOps:
+
+Devops is combination of Devlopment and operation. It will help in modern software lifecycle to automate the process and timely deliver key activites by usingtools.
